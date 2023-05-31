@@ -1,0 +1,68 @@
+Chicken_Shawarma 50
+Chicken_Cheese_Shawarma 90
+Chicken_Egg_Shawarma 90
+Yogurt_Shawarma  80
+Turki_Special_Shawarma 100
+
+
+Chicken_Biryani 180
+Simple_Biryani 130
+Chicken_Biryani_Special 220
+
+
+Chicken_Burger 100
+Chicken_Cheese_Burger 150
+Shami_Burger 120
+Omlette_Shami_Burger 160
+Shami_Cream_Belt_Burger 200
+Zinger_Burger 200
+Zinger_Cheese_Burger 230
+Chicken_Piece 250
+
+
+French_Fries_Half 100
+French_Fries_Full 150
+
+
+Chicken_Sandwich 100
+Chicken_Cheese_Sandwich 150
+Club_Sandwich 200
+Hot_Cheese_Sandwich 200
+Shami_Sandwich 170
+Shami_Cheese_Sandwich 200
+
+
+Chicken_Hot_And_Sour_Soup 200
+Chicken_Corn_Soup 150
+
+
+
+Chicken_Shandaar_Karahi 1090
+Chicken_Makhan_Karahi 1890
+Chicken_Achari_Karahi 1650
+Chicken_White_Handi 1200
+Chicken_Red_Karahi 1500
+
+
+
+Cold_Drinks_Regular 100
+Jumbo 200
+
+
+Raita 50
+Salad 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
